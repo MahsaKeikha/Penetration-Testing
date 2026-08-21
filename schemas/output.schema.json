@@ -1,0 +1,1 @@
+{"type":"object","properties":{"findings":{"type":"array"},"scope":{"type":"object"},"remediation":{"type":"array"}}}

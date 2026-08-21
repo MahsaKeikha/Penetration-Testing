@@ -1,3 +1,3 @@
 # Penetration Testing
 
-Multi-agent authorized security assessment and reporting system.
+Authorized, defensive multi-agent security assessment system with explicit scope controls, non-destructive defaults, evidence tracking, risk scoring, and remediation reporting.

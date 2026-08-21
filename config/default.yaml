@@ -1,0 +1,3 @@
+authorization_required: true
+non_destructive_default: true
+human_review_required: true

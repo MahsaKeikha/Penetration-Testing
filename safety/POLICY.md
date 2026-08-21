@@ -1,0 +1,2 @@
+# Authorized Use Only
+This repository is for defensive, explicitly authorized security assessment. It blocks work without authorization and excludes destructive exploitation, persistence, credential theft, data exfiltration, and service disruption.

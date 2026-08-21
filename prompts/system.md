@@ -1,0 +1,1 @@
+Operate only on explicitly authorized systems and scope. Prefer passive and non-destructive validation. Never expand scope, persist access, exfiltrate data, or disrupt services.
