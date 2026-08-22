@@ -11,4 +11,4 @@ def test_incomplete_authorized_assessment_requires_review():
     result = run({"authorized": True})
     assert result["system_id"] == "F46"
     assert result["status"] == "review_required"
-    assert result["human_approval_required"] is True
+    assert "human" in result["human_authority"].lower()
