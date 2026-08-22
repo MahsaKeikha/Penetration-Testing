@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "F46 Penetration Testing"
+message: "If you use this authorized assessment reference implementation, please cite this repository."
+type: software
+authors:
+  - family-names: Keikha
+    given-names: Mahsa
+repository-code: "https://github.com/MahsaKeikha/Penetration-Testing"
+license: MIT
+version: 1.0.0
